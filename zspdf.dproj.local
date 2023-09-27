@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/07/17 13:47:15.000.470,=C:\Users\Desti\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/07 11:21:03.000.531,=C:\Users\Desti\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/25 11:51:14.000.191,=C:\Users\Desti\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/25 16:20:35.000.970,=C:\Users\Desti\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/25 17:09:02.000.913,D:\delphi proj\pdf converter\Unit1.pas=C:\Users\Desti\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/25 17:09:02.000.913,D:\delphi proj\pdf converter\Unit1.dfm=C:\Users\Desti\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/09/25 17:09:05.000.138,D:\delphi proj\pdf converter\Project1.dproj=C:\Users\Desti\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/09/27 08:44:00.000.934,D:\delphi proj\pdf converter\zspdf.dproj=D:\delphi proj\pdf converter\Project1.dproj</Transaction>
+    <Transaction>2023/09/27 08:44:12.000.103,D:\delphi proj\pdf converter\Main.pas=D:\delphi proj\pdf converter\Unit1.pas</Transaction>
+    <Transaction>2023/09/27 08:44:12.000.103,D:\delphi proj\pdf converter\Main.dfm=D:\delphi proj\pdf converter\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
